@@ -44,13 +44,3 @@ Examples of insights generated:
 •  Grouping & ordering
 •  Dynamic SQL for automated NULL checks
 •  Performance‑friendly date filtering (YEAR(), MONTH())
-
-/Retail-Sales-SQL-Project
-│── data/
-│   └── retail_sales_dataset.csv
-│── sql/
-│   ├── create_table.sql
-│   ├── bulk_insert.sql
-│   ├── data_cleaning.sql
-│   ├── analysis_queries.sql
-│── README.md
